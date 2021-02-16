@@ -9,4 +9,4 @@ export default props => {
       <Text style={Estilo.txtG}>{props.b}</Text>
     </>   
     )
-    }
+}

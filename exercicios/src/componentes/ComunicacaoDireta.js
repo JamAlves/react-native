@@ -31,7 +31,7 @@ export const Avo = props =>
                <Filho nome='Bia' />
         </Pai>
         <Pai {...props} nome ='Pedro'>
-             <Filho nome='Rebeca' />
+              <Filho nome='Rebeca' />
               <Filho nome='Nayane' />
         </Pai>
     </View>  
